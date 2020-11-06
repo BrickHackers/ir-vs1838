@@ -1,29 +1,23 @@
+# IR Receiver VS1838B HX1838
+![Build status badge](https://github.io/BrickHackers/ir-vs1838/workflows/MakeCode/badge.svg)
 
-> Open this page at [https://emmetbrickhacker.github.io/ir-vs1838/](https://emmetbrickhacker.github.io/ir-vs1838/)
+forked&modified from [1010Technologies/pxt-makerbit-ir-receiver](https://github.io/1010Technologies/pxt-makerbit-ir-receiver/)
+
+> Open this page at [https://github.io/BrickHackers/ir-vs1838/](https://github.io/BrickHackers/ir-vs1838/)
 
 ## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+This repository can be added as an extension in MakeCode.
+* open https://makecode.microbit.org/
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/emmetbrickhacker/ir-vs1838** and import
-
-## Edit this project ![Build status badge](https://github.com/emmetbrickhacker/ir-vs1838/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/emmetbrickhacker/ir-vs1838** and click import
+* search for **https://github.io/BrickHackers/ir-vs1838/** and import the IR VS1838 extension
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/emmetbrickhacker/ir-vs1838/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.io/BrickHackers/ir-vs1838/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
